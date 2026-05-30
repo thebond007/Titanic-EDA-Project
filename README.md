@@ -38,6 +38,14 @@ The goal is to understand passenger demographics and identify factors that influ
 - Passenger fare was positively associated with survival.
 
 ---
+## Conclusions
+
+- Female passengers survived at a higher rate.
+- First-class passengers had better survival chances.
+- Younger passengers showed slightly higher survival rates.
+- Passenger class and fare were important indicators of survival.
+
+  ---
 
 ## Dataset
 
